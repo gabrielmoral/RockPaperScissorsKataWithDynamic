@@ -1,12 +1,10 @@
-using NUnit.Framework;
 using System;
 
-namespace RockPaperScissorsKata
+namespace RockPaperScissorsKataWithDynamic
 {
 	public class Scissors : Gesture
 	{
 
 	}
-
 }
 

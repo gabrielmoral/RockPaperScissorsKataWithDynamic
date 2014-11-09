@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RockPaperScissorsKata
+namespace RockPaperScissorsKataWithDynamic
 {
 	public interface Gesture
 	{
